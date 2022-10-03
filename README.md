@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML and Css and Js.
 
 
-- ## ![CatComputerGIF](https://user-images.githubusercontent.com/74330272/155214226-7d5ef0b4-7702-49cc-85ec-449fb4d25d44.gif)
+
  Languages and Tools:
 <p  align="center">
 
